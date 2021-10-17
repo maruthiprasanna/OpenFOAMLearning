@@ -1,0 +1,332 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2106                                  |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : _7b82832f-20210625 OPENFOAM=2106
+Arch   : "LSB;label=32;scalar=64"
+Exec   : foamDataToFluent
+Date   : Oct 17 2021
+Time   : 21:51:41
+Host   : maruthiprasanna
+PID    : 14163
+I/O    : uncollated
+Case   : /home/maruthiprasanna/OpenFOAM/maruthiprasanna-v2106/run/elbow
+nProcs : 1
+trapFpe: Floating point exception trapping enabled (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 5, maxFileModificationPolls 20)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Time = 0
+    Converting field p
+    Converting field U
+
+Time = 1
+    Converting field p
+    Converting field U
+
+Time = 2
+    Converting field p
+    Converting field U
+
+Time = 3
+    Converting field p
+    Converting field U
+
+Time = 4
+    Converting field p
+    Converting field U
+
+Time = 5
+    Converting field p
+    Converting field U
+
+Time = 6
+    Converting field p
+    Converting field U
+
+Time = 7
+    Converting field p
+    Converting field U
+
+Time = 8
+    Converting field p
+    Converting field U
+
+Time = 9
+    Converting field p
+    Converting field U
+
+Time = 10
+    Converting field p
+    Converting field U
+
+Time = 11
+    Converting field p
+    Converting field U
+
+Time = 12
+    Converting field p
+    Converting field U
+
+Time = 13
+    Converting field p
+    Converting field U
+
+Time = 14
+    Converting field p
+    Converting field U
+
+Time = 15
+    Converting field p
+    Converting field U
+
+Time = 16
+    Converting field p
+    Converting field U
+
+Time = 17
+    Converting field p
+    Converting field U
+
+Time = 18
+    Converting field p
+    Converting field U
+
+Time = 19
+    Converting field p
+    Converting field U
+
+Time = 20
+    Converting field p
+    Converting field U
+
+Time = 21
+    Converting field p
+    Converting field U
+
+Time = 22
+    Converting field p
+    Converting field U
+
+Time = 23
+    Converting field p
+    Converting field U
+
+Time = 24
+    Converting field p
+    Converting field U
+
+Time = 25
+    Converting field p
+    Converting field U
+
+Time = 26
+    Converting field p
+    Converting field U
+
+Time = 27
+    Converting field p
+    Converting field U
+
+Time = 28
+    Converting field p
+    Converting field U
+
+Time = 29
+    Converting field p
+    Converting field U
+
+Time = 30
+    Converting field p
+    Converting field U
+
+Time = 31
+    Converting field p
+    Converting field U
+
+Time = 32
+    Converting field p
+    Converting field U
+
+Time = 33
+    Converting field p
+    Converting field U
+
+Time = 34
+    Converting field p
+    Converting field U
+
+Time = 35
+    Converting field p
+    Converting field U
+
+Time = 36
+    Converting field p
+    Converting field U
+
+Time = 37
+    Converting field p
+    Converting field U
+
+Time = 38
+    Converting field p
+    Converting field U
+
+Time = 39
+    Converting field p
+    Converting field U
+
+Time = 40
+    Converting field p
+    Converting field U
+
+Time = 41
+    Converting field p
+    Converting field U
+
+Time = 42
+    Converting field p
+    Converting field U
+
+Time = 43
+    Converting field p
+    Converting field U
+
+Time = 44
+    Converting field p
+    Converting field U
+
+Time = 45
+    Converting field p
+    Converting field U
+
+Time = 46
+    Converting field p
+    Converting field U
+
+Time = 47
+    Converting field p
+    Converting field U
+
+Time = 48
+    Converting field p
+    Converting field U
+
+Time = 49
+    Converting field p
+    Converting field U
+
+Time = 50
+    Converting field p
+    Converting field U
+
+Time = 51
+    Converting field p
+    Converting field U
+
+Time = 52
+    Converting field p
+    Converting field U
+
+Time = 53
+    Converting field p
+    Converting field U
+
+Time = 54
+    Converting field p
+    Converting field U
+
+Time = 55
+    Converting field p
+    Converting field U
+
+Time = 56
+    Converting field p
+    Converting field U
+
+Time = 57
+    Converting field p
+    Converting field U
+
+Time = 58
+    Converting field p
+    Converting field U
+
+Time = 59
+    Converting field p
+    Converting field U
+
+Time = 60
+    Converting field p
+    Converting field U
+
+Time = 61
+    Converting field p
+    Converting field U
+
+Time = 62
+    Converting field p
+    Converting field U
+
+Time = 63
+    Converting field p
+    Converting field U
+
+Time = 64
+    Converting field p
+    Converting field U
+
+Time = 65
+    Converting field p
+    Converting field U
+
+Time = 66
+    Converting field p
+    Converting field U
+
+Time = 67
+    Converting field p
+    Converting field U
+
+Time = 68
+    Converting field p
+    Converting field U
+
+Time = 69
+    Converting field p
+    Converting field U
+
+Time = 70
+    Converting field p
+    Converting field U
+
+Time = 71
+    Converting field p
+    Converting field U
+
+Time = 72
+    Converting field p
+    Converting field U
+
+Time = 73
+    Converting field p
+    Converting field U
+
+Time = 74
+    Converting field p
+    Converting field U
+
+Time = 75
+    Converting field p
+    Converting field U
+
+End
+
